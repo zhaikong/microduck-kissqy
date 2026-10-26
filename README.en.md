@@ -12,8 +12,8 @@ From a collection of parts to a walking, forward-rolling robot duck—and then t
   <tr>
     <td align="center" valign="top">
       <b>💬 Join the WeChat group</b><br><br>
-      <a href="docs/assets/community-wechat-qr.png"><img width="220" alt="WeChat community group QR code" src="docs/assets/community-wechat-qr.png" /></a><br>
-      <sub>Scan in WeChat, or click the QR code for the original image.<br>This QR code is valid before November 1, 2026.</sub>
+      <a href="docs/assets/community-wechat-poster.webp"><img width="760" alt="Microduck robot photo and WeChat community QR code" src="docs/assets/community-wechat-poster.webp" /></a><br>
+      <sub>Valid before November 1, 2026 · Click the image for full size · <a href="docs/assets/community-wechat-qr.png">QR code only</a></sub>
     </td>
   </tr>
 </table>

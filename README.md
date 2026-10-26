@@ -12,8 +12,8 @@
   <tr>
     <td align="center" valign="top">
       <b>💬 加群交流</b><br><br>
-      <a href="docs/assets/community-wechat-qr.png"><img width="220" alt="微信交流群二维码" src="docs/assets/community-wechat-qr.png" /></a><br>
-      <sub>2026 年 11 月 1 日前有效 · 点击查看原图</sub>
+      <a href="docs/assets/community-wechat-poster.webp"><img width="760" alt="Microduck 实机照片与微信交流群二维码" src="docs/assets/community-wechat-poster.webp" /></a><br>
+      <sub>2026 年 11 月 1 日前有效 · 点击图片查看大图 · <a href="docs/assets/community-wechat-qr.png">单独二维码</a></sub>
     </td>
   </tr>
 </table>

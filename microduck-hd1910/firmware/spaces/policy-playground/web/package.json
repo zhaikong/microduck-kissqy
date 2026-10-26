@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc --noEmit && vite build && cp dist/index.html ../index.html",
+    "dev": "node init && vite",
+    "build": "node init && tsc --noEmit && vite build && cp dist/index.html ../index.html",
     "check": "tsc --noEmit"
   },
   "devDependencies": {
